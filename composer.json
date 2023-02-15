@@ -1,0 +1,9 @@
+{
+    "name": "maxime/todolist",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Todo\\": "src/"
+        }
+    }
+}
